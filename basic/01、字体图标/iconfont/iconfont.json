@@ -1,0 +1,65 @@
+{
+  "id": "4399664",
+  "name": "2024.1.4",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "33987164",
+      "name": "下拉",
+      "font_class": "a-xiala2",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "33987169",
+      "name": "进入",
+      "font_class": "jinru",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "33997755",
+      "name": "休闲区",
+      "font_class": "xiuxianqu",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "33997756",
+      "name": "书桌",
+      "font_class": "shuzhuo",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "33997759",
+      "name": "前台",
+      "font_class": "qiantai",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "33997760",
+      "name": "书吧",
+      "font_class": "shuba",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "33997766",
+      "name": "天然气",
+      "font_class": "tianranqi",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "33997768",
+      "name": "热水器",
+      "font_class": "reshuiqi",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    }
+  ]
+}

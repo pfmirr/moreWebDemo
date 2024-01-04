@@ -1,0 +1,48 @@
+/* 定义字体 */
+@font-face {
+  font-family: "iconfont";
+  /* Project id 4399664 */
+  src: url('iconfont.woff2?t=1704383941596') format('woff2'),
+    url('iconfont.woff?t=1704383941596') format('woff'),
+    url('iconfont.ttf?t=1704383941596') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-a-xiala2:before {
+  content: "\e621";
+}
+
+.icon-jinru:before {
+  content: "\e622";
+}
+
+.icon-xiuxianqu:before {
+  content: "\e624";
+}
+
+.icon-shuzhuo:before {
+  content: "\e625";
+}
+
+.icon-qiantai:before {
+  content: "\e626";
+}
+
+.icon-shuba:before {
+  content: "\e627";
+}
+
+.icon-tianranqi:before {
+  content: "\e628";
+}
+
+.icon-reshuiqi:before {
+  content: "\e629";
+}
